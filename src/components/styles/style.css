@@ -1,0 +1,140 @@
+.leftHalf {
+    height: 100%;
+    width: 35%;
+    padding: 30px;
+    opacity: 1;
+    color: rgba(11, 14, 31, 1);
+    font-size: 15px;
+    font-weight: bolder !important;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.cards {
+    border-radius: 34px;
+    box-shadow: 0px 0px 94px rgba(15, 15, 15, 0.085899);
+    opacity: 1;
+    background-color: rgba(255, 255, 255, 1);
+    height: 78vh;
+    width: 70vw;
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 40px;
+    opacity: 1;
+    color: rgba(108, 117, 125, 1);
+    font-family: "Manrope-Regular";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.formContainer {
+    background-color: white;
+    width: 65%;
+    opacity: 1;
+    color: rgba(11, 14, 31, 1);
+    padding: 20px;
+    border-radius: 34px;
+}
+
+.signUp {
+    opacity: 1;
+    color: rgba(11, 14, 31, 1);
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.subHead {
+    opacity: 1;
+    color: rgba(11, 14, 31, 1);
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+body {
+    background-color: #EFF6FF;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Personal Details */
+.profilePhoto {
+    border-radius: 50%;
+}
+
+.row {
+    margin-top: 10px;
+}
+
+.uploadBtn {
+    margin-left: 10px;
+    border-radius: 25px;
+    border: 1px solid rgba(221, 227, 236, 1);
+    opacity: 1;
+    background-color: rgba(255, 255, 255, 1);
+    color: #0B0E1F;
+    font-size: 10px;
+    padding: 10px;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    opacity: 1;
+    color: rgba(11, 14, 31, 1);
+    font-family: "Inter-Regular";
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.input {
+    border-radius: 8px;
+    border: 1px solid rgba(221, 227, 236, 1);
+    opacity: 1;
+    background-color: rgba(255, 255, 255, 1);
+    width: 15vw;
+    padding: 3px;
+}
+
+.btnHolder {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+    width: 93%;
+}
+
+.btnHolder button {
+    border-radius: 25px;
+    opacity: 1;
+    background-color: rgba(80, 201, 164, 1);
+    border: 0;
+    color: white;
+    font-size: small;
+    padding: 10px;
+    width: 8vw;
+}
+
+*:focus {
+    outline: none;
+    background-color: white;
+}
