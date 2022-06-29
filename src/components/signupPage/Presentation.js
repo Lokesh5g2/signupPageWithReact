@@ -6,7 +6,6 @@ const Presentation = () => {
         <div>
             <div className='cards'>
                 <div className='leftHalf'>
-                    <h1>Logo</h1>
                 </div>
                 <div className='formContainer'>
                     <h1 className='signUp'>Sign Up</h1>

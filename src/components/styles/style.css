@@ -9,6 +9,9 @@
     font-style: normal;
     letter-spacing: 0px;
     text-align: left;
+    background-image: url("../../images//signUpBG.png");
+    background-repeat: no-repeat;
+    border-radius: 34px;
 }
 
 .cards {
@@ -16,7 +19,7 @@
     box-shadow: 0px 0px 94px rgba(15, 15, 15, 0.085899);
     opacity: 1;
     background-color: rgba(255, 255, 255, 1);
-    height: 78vh;
+    height: 80vh;
     width: 70vw;
     display: flex;
     margin: auto;
@@ -151,7 +154,6 @@ body {
     font-style: normal;
     letter-spacing: 0px;
     text-align: left;
-    border-radius: 15px;
     opacity: 1;
     background-color: rgba(221, 227, 236, 1);
 }
