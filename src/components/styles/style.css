@@ -114,6 +114,7 @@ body {
     background-color: rgba(255, 255, 255, 1);
     width: 15vw;
     padding: 3px;
+    height: 5vh;
 }
 
 .btnHolder {
@@ -137,4 +138,20 @@ body {
 *:focus {
     outline: none;
     background-color: white;
+}
+
+/*Mailing and working details */
+
+.chooseFile {
+    opacity: 1;
+    color: rgba(11, 14, 31, 1);
+    font-family: "Manrope-Regular";
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+    border-radius: 15px;
+    opacity: 1;
+    background-color: rgba(221, 227, 236, 1);
 }
